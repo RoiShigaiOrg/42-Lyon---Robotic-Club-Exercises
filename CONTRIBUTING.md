@@ -2,9 +2,9 @@
 
 You can contribute to this repository in multiple way:
 
-    Fix some typo
-    Add new exercises, theme
-    Request some changes or precision in exercises
+- Fix some typo
+- Add new exercises, theme
+- Request some changes or precision in exercises
 
 ## How to contribute
 
